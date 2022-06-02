@@ -1,5 +1,4 @@
 package ejemplos_excepciones.cap11_libro_Java2.Excepciones_lista_tlfs;
-import cap10.Banco.*;
 import java.io.*;
 
 /////////////////////////////////////////////////////////////////
